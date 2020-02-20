@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 
 
-		System.out.println("cuspindo essa bomba");
+		System.out.println("cuspindo essa bombaasdasdasdasd");
 
 	}
 
